@@ -1,0 +1,11 @@
+Los desarrolladores hoy en día usan la linea de comando gracias a ciertas ventajas que puede proveer entré ellas GIT,MySQL,Webpack, NOde.js entre otros. Por otro lado es una herramienta de vital importancia ya que permite realizar tareas complejas de manera eficiente, además existen diferentes comandos para ciertas aplicaciones entre los cuales destacan:
+ls: Lista archivos y directorios.
+cd: Cambia de directorio.
+mv: Mueve archivos o cambia nombres.
+rm: Elimina archivos o directorios.
+mkdir: Crea nuevos directorios.
+rmdir: Elimina directorios vacíos.
+cp: Copia archivos.
+find: Busca archivos.
+En caso de que queramos cancelar un comando podemos ejecutar ctrl+c  para llevara cabo esta función, sino se puede limpiar la consola con el comando clear.
+En cuanto a la hora de editar archivos de la terminal esta herramienta resulta esencial para editar y acceder a ciertos archivos.
